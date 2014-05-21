@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="advertisement">
+</Property><Property Name="Solution File" Value="D:\Uchit university\university\Middlesex University\Year 2\Introduction to Computer Graphics\semister 1\cwk2 graphics\cwk2 graphics\advertisement\advertisement.sln">
+</Property><Property Name="User Options File" Value="D:\Uchit university\university\Middlesex University\Year 2\Introduction to Computer Graphics\semister 1\cwk2 graphics\cwk2 graphics\advertisement\advertisement.suo">
+</Property><Property Name="Date" Value="Thursday, January 17, 2013">
+</Property><Property Name="Time" Value="3:45 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="advertisement.sln" Description="File successfully backed up as D:\Uchit university\university\Middlesex University\Year 2\Introduction to Computer Graphics\semister 1\cwk2 graphics\cwk2 graphics\advertisement\advertisement.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="advertisement.suo" Description="File successfully backed up as D:\Uchit university\university\Middlesex University\Year 2\Introduction to Computer Graphics\semister 1\cwk2 graphics\cwk2 graphics\advertisement\advertisement.suo.old">
+</Event><Event ErrorLevel="0" Project="advertisement" Source="advertisement\advertisement.vcproj" Description="Converting project file 'D:\Uchit university\university\Middlesex University\Year 2\Introduction to Computer Graphics\semister 1\cwk2 graphics\cwk2 graphics\advertisement\advertisement\advertisement.vcproj'.">
+</Event><Event ErrorLevel="1" Project="advertisement" Source="advertisement\advertisement.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="advertisement" Source="advertisement\advertisement.vcproj" Description="Done converting to new project file 'D:\Uchit university\university\Middlesex University\Year 2\Introduction to Computer Graphics\semister 1\cwk2 graphics\cwk2 graphics\advertisement\advertisement\advertisement.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="advertisement" Source="advertisement\advertisement.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="advertisement.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="advertisement.sln" Description="Converted">
+</Event></UpgradeLog>

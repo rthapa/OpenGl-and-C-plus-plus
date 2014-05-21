@@ -1,0 +1,21 @@
+﻿Build started 21/05/2014 11:12:32.
+     1>Project "C:\University backup\Rabi University\Introduction to Computer Graphics\cw2-advertisement\advertisement\advertisement.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\advertisement.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\advertisement.unsuccessfulbuild".
+         Touching "Debug\advertisement.lastbuildstate".
+     1>Done Building Project "C:\University backup\Rabi University\Introduction to Computer Graphics\cw2-advertisement\advertisement\advertisement.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28
